@@ -1,6 +1,4 @@
-# Project Name
-
-> A clone of apple.com (old)
+# A clone of apple.com (old)
 
 ![screenshot](./app_screenshot.jpg)
 
